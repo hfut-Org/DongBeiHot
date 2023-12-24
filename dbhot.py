@@ -31,3 +31,5 @@ plt.legend()
 plt.savefig("val_mAP.png")
 # 显示图形
 plt.show()
+
+# 短视频功能，开发了一个月
