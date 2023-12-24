@@ -33,4 +33,4 @@ plt.savefig("val_mAP.png")
 plt.show()
 
 # 短视频功能，开发了一个月
-# 第二个功能，添加好友
+# 第二个功能，添加好友(修复bug)
